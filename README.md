@@ -30,7 +30,7 @@
        <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fnybles%2Fgetting-started-with-apis-using-flutter-380db61d9cbb&psig=AOvVaw3DSmGlKJduGmfVopeczhxm&ust=1654424874856000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDttIvLk_gCFQAAAAAdAAAAABAI"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktpAXBBAfNNsnquMnaj2RiEKUD4v_MFIqMiOJKMl0k0caKo02j51vgmbu4HXogsJsb7I&usqp=CAU"/> </a> 
  
  
    
