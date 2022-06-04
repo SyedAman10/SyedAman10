@@ -30,7 +30,7 @@
        <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktpAXBBAfNNsnquMnaj2RiEKUD4v_MFIqMiOJKMl0k0caKo02j51vgmbu4HXogsJsb7I&usqp=CAU"/> </a> 
+    <a href="" target="_blank"> <img width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktpAXBBAfNNsnquMnaj2RiEKUD4v_MFIqMiOJKMl0k0caKo02j51vgmbu4HXogsJsb7I&usqp=CAU"/> </a> 
  
  
    
